@@ -5,3 +5,4 @@ Python101 seviyesinde giriş kodları
 - Sözlükler
 - Setler
 - Tuple
+- EgerKontroller
