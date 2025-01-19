@@ -6,3 +6,4 @@ Python101 seviyesinde giriş kodları
 - Setler
 - Tuple
 - EgerKontroller
+- For Dongusu
