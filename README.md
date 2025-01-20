@@ -7,3 +7,4 @@ Python101 seviyesinde giriş kodları
 - Tuple
 - If Kontroller
 - For Dongusu
+- Continue Break
