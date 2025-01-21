@@ -8,4 +8,4 @@ Python101 seviyesinde giriş kodları:
 - If Kontroller
 - For Dongusu
 - Continue Break
-- While 
+- While Dongusu
