@@ -10,4 +10,5 @@ Python101 seviyesinde giriş kodları:
 - Continue Break
 - While Dongusu
 - Veri Bilimi Faydali Metodlar
+- Faydali Fonksiyonlar
   
