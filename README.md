@@ -12,4 +12,4 @@ Python101 seviyesinde giriş kodları:
 - Veri Bilimi Faydali Metodlar
 - Fonksiyonlar
 - Faydali Fonksiyonlar
-  
+- Scope
