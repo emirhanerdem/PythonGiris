@@ -13,3 +13,4 @@ Python101 seviyesinde giriş kodları:
 - Fonksiyonlar
 - Faydali Fonksiyonlar
 - Scope
+- Hesap Makinesi
