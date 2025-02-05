@@ -1,5 +1,5 @@
 # PythonGiris
-Python101 seviyesinde giriş kodları:
+##Python101 seviyesinde giriş kodları:
 - Degiskenler
 - Listeler
 - Sözlükler
