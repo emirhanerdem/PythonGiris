@@ -1,4 +1,4 @@
-# PythonGiris
+# PythonGirisDersleri
 ##Python101 seviyesinde kolay seviye giriş kodları:
 - Degiskenler
 - Listeler
